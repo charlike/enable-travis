@@ -32,7 +32,7 @@
     "git-username": "^0.4.0",
     "inquirer": "^0.11.0",
     "load-pkg": "^2.0.1",
-    "log-symbols": "^1.0.2",
+    "log-symbols": "^2.0.0",
     "minimist": "^1.2.0",
     "travis-ci": "^2.0.3"
   },
