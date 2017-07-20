@@ -30,7 +30,7 @@
     "git-repo-name": "^0.5.0",
     "git-user-name": "^1.1.2",
     "git-username": "^0.4.0",
-    "inquirer": "^0.11.0",
+    "inquirer": "^1.0.0",
     "load-pkg": "^2.0.1",
     "log-symbols": "^1.0.2",
     "minimist": "^1.2.0",
